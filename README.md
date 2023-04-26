@@ -4,4 +4,4 @@ komanda üzvləri:
 Suleymanlı Mehriban,
 Nəbiyeva Müjgan,
 Əhmədli Məhəmməd,
-Şükürlü Elvin,
+Şükürlü Elvin.
